@@ -222,14 +222,15 @@ Pour protéger intégralement le site avec un unique couple identifiant / mot de
 et autoriser heroku à voir les dossiers hébergés sur github**
 
 ![config vars][img05]
+![config vars][img06]
 
 **Sélectionner votre copie de Democracy OS**
 
-![config vars][img06]
+![config vars][img07]
 
 **Déployer la branche master**
 
-![config vars][img07]
+![config vars][img08]
 
 *__en cas d’échec, ne pas hésiter à recommencer le déploiement une ou 2 fois__*
 
@@ -295,3 +296,4 @@ Comme pour MongoLab, ses 2 add-ons fournissent automatiquement les identifiants 
 [img05]: ./heroku-sandbox-101-resources/image-05.jpg
 [img06]: ./heroku-sandbox-101-resources/image-06.jpg
 [img07]: ./heroku-sandbox-101-resources/image-07.jpg
+[img08]: ./heroku-sandbox-101-resources/image-08.jpg
