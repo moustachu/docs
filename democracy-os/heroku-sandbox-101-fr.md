@@ -221,15 +221,15 @@ Pour protéger intégralement le site avec un unique couple identifiant / mot de
 **Connecter le compte github qui contient la copie de Democracy OS  
 et autoriser heroku à voir les dossiers hébergés sur github**
 
-    ![config vars][img05]
+![config vars][img05]
 
 **Sélectionner votre copie de Democracy OS**
 
-    ![config vars][img06]
+![config vars][img06]
 
 **Déployer la branche master**
 
-    ![config vars][img07]
+![config vars][img07]
 
 *__en cas d’échec, ne pas hésiter à recommencer le déploiement une ou 2 fois__*
 
