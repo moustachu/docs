@@ -1,6 +1,6 @@
 # Democracy OS : déployer une instance en ligne
 
-Democracy OS est une application web permettant la saisie, le débat et le vote de proposition présentée sous forme d’article.
+DemocracyOS est un espace en ligne de délibération et de vote sur des propositions politiques. Son objectif est de promouvoir une gouvernance plus participative et ouverte.
 
 [Site officiel](https://www.democracyos.org) (en anglais)  
 [Site de développement](github.com/democracyos/app) (en anglais)  
@@ -115,7 +115,7 @@ les langues disponibles sont consultables [ici](https://github.com/DemocracyOS/a
 
 
 **MONGO_URL**  
-*adresse de connection à la base MongoDB*
+*adresse de connexion à la base MongoDB*
 
     mongodb://...
 
@@ -123,7 +123,7 @@ Normalement, l’add-on MongoLab créé une variable nommée MONGOLAB_URI avec l
 
 
 **MONGO_USERS_URL** *optionnel*  
-*adresse de connection à la base MongoDB pour les utilisateurs*
+*adresse de connexion à la base MongoDB pour les utilisateurs*
 
     mongodb://...
 
